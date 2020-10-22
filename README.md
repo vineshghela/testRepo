@@ -23,3 +23,8 @@ Its me!!
 
 ![some caption](www.google.com)
 [some link](www.qa.com)
+
+
+```java
+System.out.println("hello friends");
+```
