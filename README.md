@@ -10,3 +10,9 @@
 |---|---|
 |new col| another new col|
 
+<details>
+<summary>Click me</summary>
+
+surprise
+Its me!!
+</details>
